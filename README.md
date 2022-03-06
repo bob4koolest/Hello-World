@@ -1,2 +1,4 @@
 # Hello-World
-A highly efficient program that displays "hello world".
+Have you ever found yourself needing a way to print "hello world" into the console but can't seem to find an efficient way to do so? Sure, `console.log("hello world");` works, but that's just cringe.
+
+Here's a solution I made that's insanely efficient and hardly takes up any space.
