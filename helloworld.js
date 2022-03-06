@@ -6,7 +6,7 @@ const dirname = require('path').dirname(require.main.filename);
 var $;
 var nevergonnagiveyouup;
 
-//custom base94 encryption
+//custom base94 encoding
 let charsraw = [" `1234567890-=~!@#$%^&*()_+QWERTYUIOP{}|ASDFGHJKL:\"ZXCVBNM<>?qwertyuiop[]\\asdfghjkl;'zxcvbnm,./"];
 
 const chars = charsraw[0].match(/.{1}/g);
